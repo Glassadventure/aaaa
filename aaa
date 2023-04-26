@@ -1,0 +1,9 @@
+{
+  "Releases": [
+    {
+      "Id": "Back",
+      "Version": "2.0.1",
+      "DownloadUrl": "https://github.com/tjwogud/BackToThePast/releases/download/v1.9.2/BackToThePast.zip"
+    }
+  ]
+}
